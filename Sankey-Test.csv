@@ -1,4 +1,4 @@
-﻿Fase,Estado,Index,x,y,Label,Source,Target,Value
+﻿Fase,Estado,Index,X,Y,Label,Source,Target,Value
 0_Inicial,Inicial,0,10,10,0-Inicial,0,1,21
 0_Inicial,0_Mensaje,1,20,50,0-0_Mensaje,1,2,34
 0_Inicial,Z_Siguiente,2,30,100,0-Z_Siguiente,2,3,25
