@@ -1,8 +1,8 @@
 Fase,Estado,Index,X,Y,Label,Source,Target,Value
-0_Inicial,Inicial,0,0,0,0-Inicial,0,1,21
-0_Inicial,0_Mensaje,1,0,0,0-0_Mensaje,1,2,34
-0_Inicial,Z_Siguiente,2,0,0,0-Z_Siguiente,2,3,25
-1_Pregunta,Inicial,3,0,0,1-Inicial,3,5,29
+0_Inicial,Inicial,0,10,10,0-Inicial,0,1,21
+0_Inicial,0_Mensaje,1,20,50,0-0_Mensaje,1,2,34
+0_Inicial,Z_Siguiente,2,30,100,0-Z_Siguiente,2,3,25
+1_Pregunta,Inicial,3,40,10,1-Inicial,3,5,29
 1_Pregunta,0_Mensaje,4,50,40,1-0_Mensaje,5,5,30
 1_Pregunta,1_Pregunta_Pregunta,5,60,80,1-1_Pregunta_Pregunta,5,4,33
 1_Pregunta,1a_Esperar_Pregunta,6,70,120,1-1a_Esperar_Pregunta,5,6,38
